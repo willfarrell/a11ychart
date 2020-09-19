@@ -1,9 +1,6 @@
 # a11ychart
 Accessibility focused charting library
 
-
-
-
 ## Feature Scoping
 
 - engine
@@ -43,6 +40,7 @@ Accessibility focused charting library
   - lines have dash pattern (morse code for series name/id)
   - bar fill has line pattern
     - https://www.heropatterns.com/
+    - https://iros.github.io/patternfills/
     - https://www.svgbackgrounds.com/#geometric-intersection
 - support treeshaking, small codebase
 - support streams
