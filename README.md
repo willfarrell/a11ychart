@@ -37,11 +37,13 @@ Accessibility focused charting library
   - say name of series before playing
   - check audio player best practices
 - Page Zoom: points, lines, bars scale with page (auto adjust scales?)
-- Points
+- Points/Line/Fill
   - Set colour at chart, series, point level, have presets
   - colours must meet 7:1  contract ratio
   - Set shape/icon at chart, series, point level
   - points have option to have line above/below (Data Science)
-- Alert user when chart changes
+  - lines have dash pattern
+  - bar fill has line pattern
 - support treeshaking, small codebase
 - support streams
+- Alert user when chart changes (external)
