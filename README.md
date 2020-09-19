@@ -42,7 +42,7 @@ Accessibility focused charting library
   - colours must meet 7:1  contract ratio
   - Set shape/icon at chart, series, point level
   - points have option to have line above/below (Data Science)
-  - lines have dash pattern
+  - lines have dash pattern (morse code for series name/id)
   - bar fill has line pattern
 - support treeshaking, small codebase
 - support streams
