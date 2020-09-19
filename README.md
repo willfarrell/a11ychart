@@ -19,12 +19,10 @@ Accessibility focused charting library
   - pie
   - donut
 - scales
-  - multi-y-axies
   - x,y
-  - time
+  - time,y
   - log
   - x-axis full preview w/ zoom handles
-
 - provide table of data
 - figure description auto generated from data
   - summary of points
@@ -44,6 +42,8 @@ Accessibility focused charting library
   - points have option to have line above/below (Data Science)
   - lines have dash pattern (morse code for series name/id)
   - bar fill has line pattern
+    - https://www.heropatterns.com/
+    - https://www.svgbackgrounds.com/#geometric-intersection
 - support treeshaking, small codebase
 - support streams
 - Alert user when chart changes (external)
