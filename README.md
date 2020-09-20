@@ -7,7 +7,7 @@ Accessibility focused charting library
   - svg
   - canvas
     - [AOM](https://wicg.github.io/aom/)
-- chart types
+- chart types [list](https://datavizcatalogue.com/index.html)
   - scatter
   - line
   - bar
